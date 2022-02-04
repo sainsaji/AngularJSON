@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "sname": "Lokesh",
+        "sclass": "2 Wheeler",
+        "fee": 10000
+    },
+    {
+        "id": 2,
+        "sname": "Raman",
+        "sclass": "4 Wheeler",
+        "fee": 20000
+    },
+    {
+        "id": 3,
+        "sname": "Murukan",
+        "sclass": "2 Wheeler",
+        "fee": 30000
+    },
+    {
+        "id": 4,
+        "sname": "Karthikeyan",
+        "sclass": "4 Wheeler",
+        "fee": 40000
+    },
+    {
+        "id": 5,
+        "sname": "Vignesh",
+        "sclass": "2 Wheeler",
+        "fee": 50000
+    },
+    {
+        "id": 6,
+        "sname": "Kumar",
+        "sclass": "2 Wheeler",
+        "fee": 30000
+    },
+    {
+        "id": 7,
+        "sname": "Deshayi",
+        "sclass": "4 Wheeler",
+        "fee": 40000
+    },
+    {
+        "id": 8,
+        "sname": "Manikya",
+        "sclass": "2 Wheeler",
+        "fee": 50000
+    }
+]
