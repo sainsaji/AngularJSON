@@ -1,6 +1,6 @@
 var serviceAppModule = angular.module("serviceApp", []);    
  serviceAppModule.controller("serviceCtrl", function ($scope,$http) {    
-   $http.get('service.json')    
+   $http.get('https://sainsaji.github.io/AngularJSON/service.json')    
    .success(function(data){    
      $scope.services = data;    
    })    
